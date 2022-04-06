@@ -1,0 +1,397 @@
+.hh a {
+    padding-left: 20px;
+    text-decoration: none !important;
+    display: inline-block;
+
+}
+
+.hh.container {
+    background-color: #5B5B5B;
+    color: white;
+}
+
+
+
+.nav.nav-pills .active a {
+    color:
+        #BA4406;
+    border-bottom: 2px solid rgba(186, 68, 6, 1);
+    border-radius: 0;
+}
+
+.nav.nav-pills {
+    list-style-type: none;
+    display: flex;
+    width: 75%;
+    padding-right: 54px;
+    justify-content: end;
+    font-family: 'Nunito Sans';
+
+
+}
+
+.nav.nav-pills a {
+    color: #000;
+    font-size: 16px;
+    padding-left: 0px;
+    padding-right: 0px;
+}
+
+.nav.nav-pills li {
+    color: #000;
+    font-size: 16px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+
+.container.great {
+    padding-bottom: 16px;
+    padding-top: 16px;
+}
+
+
+.title {
+    font-size: 52px;
+    color: white;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    margin-bottom: 0;
+    font-family: 'Nunito Sans';
+}
+
+.angle {
+    font-weight: 700;
+    font-size: 44px;
+    color: #fff;
+    font-family: 'Nunito Sans';
+
+}
+
+header {
+    align-items: center;
+
+    background: rgb(5, 55, 66);
+    background: linear-gradient(90deg, rgba(5, 55, 66, 1) 40%, rgba(5, 55, 66, 0) 100%);
+    padding-top: 50px;
+    padding-bottom: 28px;
+
+}
+
+.child {
+    align-items: center;
+    background-image: url(../images/children.png);
+    background-position: right;
+    background-repeat: no-repeat;
+    background-size: 60%;
+    margin-bottom: 40px;
+
+
+}
+
+
+
+.padding-left-50 {
+    padding-left: 80px;
+}
+
+.ks1 p {
+    color: black;
+    font-size: 18px;
+    font-weight: 400;
+    margin-bottom: 30px;
+    line-height: 1.6;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+button.btn-primary {
+    background-color: transparent !important;
+    color: yellow !important;
+    border-color: yellow;
+    padding: 10px 36px;
+    font-size: 18px;
+}
+
+.ks2 {
+    align-items: center;
+
+    background-image: url(../images/people.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-bottom: 62px;
+    padding-top: 37px;
+    padding-bottom: 53px;
+}
+
+.col-4 {
+    position: relative;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+.team {
+    position: absolute;
+    bottom: 0px;
+    z-index: 1;
+    /*background: #0A1931;
+    background: linear-gradient(180deg, rgba(255, 255, 255, 0) 0%, rgba(255, 255, 255, 1) 100%);
+    */
+
+    left: 12px;
+    min-height: 105px;
+    left: 12px;
+    right: 12px;
+    padding: 15px 15px 50px 15px;
+    text-align: center;
+    color: #fff;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: end;
+    background-color: rgba(18, 31, 51, 0.7);
+}
+
+.col-4 {
+    position: relative;
+}
+
+.greats {
+
+    align-items: center;
+
+    background-image: url(../images/relation.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    padding-top: 50px;
+    padding-bottom: 50px;
+    text-align: center;
+
+}
+
+.nav.nav-pil .active a {
+    color:
+        #BA4406;
+    border-bottom: 2px solid rgba(186, 68, 6, 1);
+    border-radius: 0;
+}
+
+.nav.nav-pil {
+    list-style-type: none;
+    display: flex;
+    width: 75%;
+
+    justify-content: end;
+}
+
+.nav.nav-pil a {
+
+    font-size: 16px;
+    padding-left: 0px;
+    padding-right: 0px;
+}
+
+.nav.nav-pil li {
+
+    font-size: 16px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.footer {
+    background-color: black;
+    color: #FFFFFF;
+    padding-top: 28px;
+}
+
+p.pinky {
+    color: white;
+}
+
+img,
+svg {
+    vertical-align: middle;
+}
+
+p.dimpu {
+
+    text-align: center;
+}
+
+.text-primary {
+    color: #842B81 !important;
+
+}
+
+.pb-3 {
+
+    background-color: #5B5B5B;
+}
+
+.col-sm-9 {
+    color: white;
+    padding-left: 124px;
+}
+
+a .red {
+
+    padding-right: 183px !important;
+    padding-top: 21px;
+}
+
+
+.col-sm-9.green {
+    padding-top: 20px;
+    font-family: 'Nunito Sans';
+    font-weight: 700;
+    font-size: 12px;
+    font-family: 'Nunito Sans';
+    color: white;
+}
+
+.col-sm-3 {
+
+    padding-top: 0px;
+}
+
+.text-center {
+    color: #053742 !important;
+    font-size: 38px;
+    font-family: 'Montserrat';
+}
+
+span.edu {
+    font-weight: 700;
+    margin-left: 10px;
+    margin-right: 10px;
+    font-family: 'Nunito Sans';
+}
+
+p.p {
+    font-size: 52px;
+    margin-bottom: 0;
+    color: white;
+    font-weight: 400;
+}
+
+.who {
+    display: inline-flex;
+    height: 139px;
+
+    width: 139px;
+    background-color:
+        #FFC107;
+    border-radius: 100%;
+    /* text-align: center; */
+    align-items: center;
+    justify-content: center;
+    margin-right: 20px;
+    font-family: 'Nunito Sans';
+    font-weight: 700;
+    font-size: 36px;
+}
+
+.col-4 {
+    position: relative;
+    margin-bottom: 58px;
+}
+
+h4.our {
+    font-weight: 700;
+    font-size: 60px;
+    color: #842B81;
+    margin-top: 20px;
+}
+
+p.dimpu {
+    font-size: 40px;
+    margin-bottom: 0px;
+    color: white;
+}
+
+span.ee {
+    font-weight: 700;
+}
+
+
+
+.button {
+
+
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    background-color: transparent;
+    color:
+        #FFC107;
+    border-color:
+        #FFC107;
+    border-radius: 4px;
+    padding: 10px 42px;
+}
+
+h4.we.are {
+    color: white;
+    font-size: 38px;
+    font-weight: 700;
+    font-family: 'Nunito Sans';
+}
+
+.main-section.join {
+    padding-top: 72px;
+    padding-bottom: 72px;
+}
+
+.copyright .nav.nav-pills {
+    width: auto;
+    padding-right: 0px;
+
+
+}
+
+.demo img {
+    filter: invert(1);
+}
+
+input#fname {
+    background-color: tra;
+    background-color: transparent;
+    border-radius: 0;
+}
+
+.read {
+    padding-bottom: 26px;
+    font-family: 'Montserrat';
+    font-size: 24px;
+    font-weight: 600;
+
+}
+
+p.ddx {
+    padding-right: 80px;
+    font-family: 'Nunito Sans';
+}
+
+.team p {
+    font-size: 16px;
+    font-weight: 900;
+    font-family: 'Nunito Sans';
+}
+
+.col-lg-4 {
+    font-family: 'Nunito Sans';
+    font-size: 14px;
+    font-weight: 400;
+}
